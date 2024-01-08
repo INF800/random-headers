@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "random-headers"
+  site-url: "https://INF800.github.io/random-headers"
+  description: "Generate random headers for scraping purposes."
+  repo-branch: main
+  repo-url: "https://github.com/INF800/random-headers"
