@@ -13,10 +13,21 @@ pip install random_headers
 
 ## How to use
 
-Fill me in please! Don’t forget code examples:
+To generate a random header run the code below:
 
 ``` python
-1+1
+import random_headers as rh
+
+dir(rh)
 ```
 
-    2
+    ['__builtins__',
+     '__cached__',
+     '__doc__',
+     '__file__',
+     '__loader__',
+     '__name__',
+     '__package__',
+     '__path__',
+     '__spec__',
+     '__version__']
