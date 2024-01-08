@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "random-headers",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation."
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "random-headers",
+    "section": "Install",
+    "text": "Install\npip install random_headers"
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "random-headers",
+    "section": "How to use",
+    "text": "How to use\nTo generate a random header run the code below:\n\nimport random_headers as rh\n\ndir(rh)\n\n['__builtins__',\n '__cached__',\n '__doc__',\n '__file__',\n '__loader__',\n '__name__',\n '__package__',\n '__path__',\n '__spec__',\n '__version__']"
+  },
+  {
+    "objectID": "static_headers.html",
+    "href": "static_headers.html",
+    "title": "Static Headers",
+    "section": "",
+    "text": "source\n\nget_header\n\n get_header ()\n\nReturns a random header.\nTo generate a random header, run:\n\nget_header()\n\n{'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:77.0) Gecko/20100101 Firefox/77.0',\n 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',\n 'Accept-Language': 'en-US,en;q=0.5',\n 'Referer': 'https://www.google.com/',\n 'DNT': '1',\n 'Connection': 'keep-alive',\n 'Upgrade-Insecure-Requests': '1'}"
+  }
+]
